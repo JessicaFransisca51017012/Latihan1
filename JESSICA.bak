@@ -1,0 +1,18 @@
+#include<iostream.h>
+#include<conio.h>
+
+void main()
+{
+	clrscr;
+   cout<<"jjjjjjjjj       mmmmmmmmmm"<<endl;
+   cout<<"jjjjjjjjj       mmmmmmmmmm"<<endl;
+   cout<<"       jj       mm"<<endl;
+   cout<<"       jj       mm"<<endl;
+   cout<<"       jj       mmmmmm"<<endl;
+   cout<<"       jj       mm"<<endl;
+   cout<<"jjjjjjjjj       mm"<<endl;
+   cout<<"jjjjjjjjj       mm"<<endl;
+getch();
+}
+
+//Latihan no 2
